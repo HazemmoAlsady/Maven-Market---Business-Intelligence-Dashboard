@@ -42,7 +42,7 @@ The dataset includes:
 - Storytelling with Data
 
 ## 📸 Dashboard Preview
-![Dashboard](./assets/dashboard.png)
+![Dashboard](.5ز2018-04-26_02-00-42-973d3711ac85b653d015833b59ec4a85.png)
 
 ---
 
